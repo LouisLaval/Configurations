@@ -12,8 +12,8 @@
 	helper = cache --timeout=3600
 [merge]
 	tool = meld
-	ff = no
-    commit = no
+	ff = false
+    commit = false
 [mergetool]
 	keeptemporaries = false
 	keepbackups = false
