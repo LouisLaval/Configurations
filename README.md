@@ -6,7 +6,7 @@ Ce dépot permet de configurer cygwin (git bash) pour windows
 
 ### Dependance
 1. git Credential
-[Depot git](https://github.com/Microsoft/Git-Credential-Manager-for-Windows/eleases) pour récupérer l'installeur
+[Depot git](https://github.com/Microsoft/Git-Credential-Manager-for-Windows/releases) pour récupérer l'installeur
 2. [Installer meld](http://meldmerge.org/) pour gérer les conflits
 
 ## Installation
