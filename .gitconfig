@@ -12,6 +12,8 @@
 	helper = cache --timeout=3600
 [merge]
 	tool = meld
+	ff = no
+    commit = no
 [mergetool]
 	keeptemporaries = false
 	keepbackups = false
@@ -34,12 +36,8 @@
 	path = C:\\Program Files (x86)\\Meld\\Meld.exe
 [color "diff"]
 	meta = yellow
-	meta = yellow
 	frag = magenta
 	whitespace = red
-[pager]
-	diff = diff-so-fancy | less --tabs=2 -RFX
-	show = diff-so-fancy | less --tabs=2 -RFX
 [diff]
 	mnemonicPrefix = true
 	renames = true

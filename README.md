@@ -5,11 +5,9 @@ Ce dépot permet de configurer cygwin (git bash) pour windows
 * Installer git pour windows
 
 ### Dependance
-1. diff so fancy permet de stylisé les diff de facon plus lisible
-```$ npm install -g diff-so-fancy```
-2. git Credential
+1. git Credential
 [Depot git](https://github.com/Microsoft/Git-Credential-Manager-for-Windows/eleases) pour récupérer l'installeur
-3.[Installer meld](http://meldmerge.org/) pour gérer les conflits
+2. [Installer meld](http://meldmerge.org/) pour gérer les conflits
 
 ## Installation
 1. Il faut cloner le répertoire 
