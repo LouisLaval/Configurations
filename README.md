@@ -1,7 +1,6 @@
 # Configurations
 Ce dépot permet de configurer cygwin (git bash) pour windows
 ### Pré-requis
-* Avoir node / npm d'installer
 * Installer git pour windows
 
 ### Dependance
