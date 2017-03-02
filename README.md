@@ -11,7 +11,7 @@ Ce dépot permet de configurer cygwin (git bash) pour windows
 
 ## Installation
 1. Il faut cloner le répertoire 
-```$ git clone https://github.com/WhyThat/Configurations.git```
+```$ git clone https://github.com/LouisLaval/Configurations```
 2. Copier tous les fichiers du dépot dans le dossier d'utilisateur /!\ Ceci remplacera toutes vos précédente configuration Git 
 ```$ cp .* /c/Users/NomUtilisateur```
 3. Parametrer l'utilisateur par défaut de git
